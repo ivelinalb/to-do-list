@@ -73,10 +73,3 @@ li {
     font-size: 16px;
     color: rgb(156, 67, 156);
 }
-
-.delete{
-    background-color: rgb(172, 134, 172);
-    padding: 0px 4px 0px 4px;
-    color: #fff;
-    cursor: pointer;
-}
